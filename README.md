@@ -46,12 +46,15 @@ jupyter notebook
 To identify which states are performing worst in early-childhood Aadhaar enrolment.
 
 **📊 What this visual shows**
+
 States ranked by lowest percentage of 0–5 enrolment, without any national comparison.
 
 **🧠 What it is saying**
+
 Several states show very low early-childhood enrolment, indicating potential inclusion gaps at the state level.
 
 **🔑 Why this matters**
+
 Acts as the initial problem discovery step, highlighting where enrolment challenges are concentrated.
 
 ![States with Lowest Aadhaar Enrolment (Age 0–5)](screenshots/states_lowest_0_5.png)
@@ -62,6 +65,7 @@ Acts as the initial problem discovery step, highlighting where enrolment challen
 ### 2️⃣ States with Lowest Aadhaar Enrolment (Age 0–5) vs National Average
 
 **🎯 Intention**
+
 To understand how far low-performing states deviate from the national benchmark.
 
 **📊 What this visual shows**
@@ -71,9 +75,11 @@ To understand how far low-performing states deviate from the national benchmark.
 * Same scale for direct comparison
 
 **🧠 What it is saying**
+
 Several states fall significantly below the national average, confirming these are meaningful gaps rather than minor deviations.
 
 **🔑 Why this matters**
+
 Introduces national context, helping distinguish truly critical states from marginal underperformers.
 
 ![States with Lowest Aadhaar Enrolment vs National Average](screenshots/states_vs_national_avg.png)
