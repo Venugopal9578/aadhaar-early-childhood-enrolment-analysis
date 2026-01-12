@@ -1,4 +1,7 @@
-# **Aadhaar Early-Childhood Enrolment Analysis (Age 0–5)**
+# Aadhaar Early-Childhood Enrolment Analysis (Age 0–5)
+
+📊 Data Analysis | 🏛️ Public Policy | 🇮🇳 India | 🧠 Decision Intelligence
+
 
 ## 
 
@@ -64,7 +67,9 @@ Several states fall **significantly below the national average**, confirming tha
 
 Introduces **national context**, helping distinguish truly critical states from marginal underperformers.
 
-![][image2]
+![States with Lowest Aadhaar Enrolment vs National Average](screenshots/states_lowest_vs_national_avg.png)
+
+
 
 ### **3️⃣ Meghalaya Districts with Lowest Aadhaar Enrolment (Age 0–5)**
 
@@ -84,7 +89,8 @@ A **small number of districts** drive the state’s overall low performance.
 
 Suggests that **district-level interventions** would be more effective than broad state-wide actions.
 
-![][image3]
+![Meghalaya Districts with Lowest Aadhaar Enrolment](screenshots/meghalaya_districts_lowest_0_5.png)
+
 
 ### **4️⃣ National Contrast: Best vs Worst States in Early Childhood Aadhaar Enrolment**
 
@@ -108,7 +114,8 @@ The gap between best and worst states exceeds **80 percentage points**, revealin
 
 Demonstrates that the issue is **not small optimisation**, but **deep national inequality**.
 
-![][image4]
+![National Contrast Best vs Worst States](screenshots/best_vs_worst_states.png)
+
 
 ### **5️⃣ Regional Patterns in Early Childhood Aadhaar Enrolment**
 
@@ -128,7 +135,8 @@ The **North-East region** consistently underperforms, while most other regions e
 
 Confirms that the challenge is **systemic and regional**, requiring **region-specific strategies**.
 
-![][image5]
+![Regional Patterns in Early Childhood Aadhaar Enrolment](screenshots/regional_patterns.png)
+
 
 ### **6️⃣ States Requiring Highest Priority Intervention for Aadhaar Enrolment (Age 0–5)**
 
@@ -154,7 +162,8 @@ States ranked using a custom **Intervention Priority Index (IPI)** based on:
 
 Shifts the narrative from *“who is worst”* to *“where action matters most”*.
 
-![][image6]
+![States Requiring Highest Priority Intervention](screenshots/intervention_priority_states.png)
+
 
 ### **7️⃣ Severity vs Scale Quadrant for Early Childhood Aadhaar Enrolment**
 
@@ -182,7 +191,8 @@ States naturally cluster into:
 
 Enables **policy decisions at a glance**, aligning analysis with real-world resource allocation.
 
-![][image7]
+![Severity vs Scale Quadrant](screenshots/severity_vs_scale_quadrant.png)
+
 
 ### **8️⃣ State-wise Contribution to India’s Total Aadhaar Enrolment Gap (Age 0–5)**
 
@@ -204,7 +214,8 @@ Percentage contribution of each state to the national 0–5 enrolment gap.
 
 Shows that **addressing just two states can reduce nearly 90% of the national gap**.
 
-![][image8]
+![State-wise Contribution to National Enrolment Gap](screenshots/state_contribution_national_gap.png)
+
 
 ### **9️⃣ Policy Impact Simulation: Bihar \+5% Improvement**
 
@@ -228,7 +239,8 @@ A modest improvement in a single high-impact state produces a **measurable natio
 
 Transforms analysis into **actionable policy foresight**, validating prioritisation decisions.
 
-![][image9]
+![Policy Impact Simulation Bihar +5%](screenshots/policy_impact_simulation_bihar.png)
+
 
 ## **Overall Conclusion**
 
