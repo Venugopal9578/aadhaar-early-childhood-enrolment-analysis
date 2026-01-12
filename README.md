@@ -90,15 +90,19 @@ Introduces national context, helping distinguish truly critical states from marg
 ### 3️⃣ Meghalaya Districts with Lowest Aadhaar Enrolment (Age 0–5)
 
 **🎯 Intention**
+
 To check whether a low-performing state underperforms uniformly or due to specific districts.
 
 **📊 What this visual shows**
+
 District-wise 0–5 enrolment percentages within Meghalaya.
 
 **🧠 What it is saying**
+
 A small number of districts drive the state’s overall low performance.
 
 **🔑 Why this matters**
+
 Suggests district-level interventions would be more effective than broad state-wide actions.
 
 ![Meghalaya Districts with Lowest Aadhaar Enrolment](screenshots/meghalaya_districts.png)
