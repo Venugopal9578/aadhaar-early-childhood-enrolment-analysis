@@ -113,18 +113,22 @@ Suggests district-level interventions would be more effective than broad state-w
 ### 4️⃣ National Contrast: Best vs Worst States in Early Childhood Aadhaar Enrolment
 
 **🎯 Intention**
+
 To expose the true scale of inequality by comparing the best and worst performing states together.
 
 **📊 What this visual shows**
+
 
 * Top 5 states
 * Bottom 5 states
 * National average reference line
 
 **🧠 What it is saying**
+
 The gap between best and worst states exceeds **80 percentage points**, revealing structural disparities in early-childhood enrolment.
 
 **🔑 Why this matters**
+
 Demonstrates that the issue is not small optimisation, but deep national inequality.
 
 ![National Contrast Best vs Worst States](screenshots/best_vs_worst_states.png)
@@ -135,15 +139,19 @@ Demonstrates that the issue is not small optimisation, but deep national inequal
 ### 5️⃣ Regional Patterns in Early Childhood Aadhaar Enrolment
 
 **🎯 Intention**
+
 To determine whether enrolment gaps are random or regionally structured.
 
 **📊 What this visual shows**
+
 Average 0–5 enrolment across regions compared to the national average.
 
 **🧠 What it is saying**
+
 The North-East region consistently underperforms, while most other regions exceed the national benchmark.
 
 **🔑 Why this matters**
+
 Confirms the challenge is systemic and regional, requiring region-specific strategies.
 
 ![Regional Patterns in Early Childhood Aadhaar Enrolment](screenshots/regional_patterns.png)
@@ -154,9 +162,11 @@ Confirms the challenge is systemic and regional, requiring region-specific strat
 ### 6️⃣ States Requiring Highest Priority Intervention for Aadhaar Enrolment (Age 0–5)
 
 **🎯 Intention**
+
 To identify where intervention would have the highest national impact, not just where enrolment is lowest.
 
 **📊 What this visual shows**
+
 States ranked using a custom **Intervention Priority Index (IPI)** based on:
 
 * Severity (gap from national average)
@@ -164,10 +174,12 @@ States ranked using a custom **Intervention Priority Index (IPI)** based on:
 
 **🧠 What it is saying**
 
+
 * Bihar emerges as the highest-impact intervention state due to population scale
 * Meghalaya ranks high due to extreme severity
 
 **🔑 Why this matters**
+
 Shifts the narrative from *“who is worst”* to *“where action matters most”*.
 
 ![States Requiring Highest Priority Intervention](screenshots/intervention_priority.png)
@@ -178,9 +190,11 @@ Shifts the narrative from *“who is worst”* to *“where action matters most�
 ### 7️⃣ Severity vs Scale Quadrant for Early Childhood Aadhaar Enrolment
 
 **🎯 Intention**
+
 To classify states into clear decision zones for intervention planning.
 
 **📊 What this visual shows**
+
 
 * X-axis: Severity of enrolment gap
 * Y-axis: Population scale
@@ -188,10 +202,12 @@ To classify states into clear decision zones for intervention planning.
 
 **🧠 What it is saying**
 
+
 * High severity + high scale → national priority
 * High severity + low scale → targeted regional action
 
 **🔑 Why this matters**
+
 Enables policy decisions at a glance, aligned with real-world resource allocation.
 
 ![Severity vs Scale Quadrant](screenshots/severity_vs_scale_quadrant.png)
@@ -202,17 +218,21 @@ Enables policy decisions at a glance, aligned with real-world resource allocatio
 ### 8️⃣ State-wise Contribution to India’s Total Aadhaar Enrolment Gap (Age 0–5)
 
 **🎯 Intention**
+
 To quantify which states contribute most to India’s total enrolment deficit.
 
 **📊 What this visual shows**
+
 Percentage contribution of each state to the national 0–5 enrolment gap.
 
 **🧠 What it is saying**
+
 
 * Bihar contributes ~65% of the national gap
 * Meghalaya contributes ~24%, despite smaller population
 
 **🔑 Why this matters**
+
 Shows that addressing just two states can reduce nearly 90% of the national gap.
 
 ![State-wise Contribution to National Enrolment Gap](screenshots/contribution_to_gap.png)
@@ -223,17 +243,21 @@ Shows that addressing just two states can reduce nearly 90% of the national gap.
 ### 9️⃣ Policy Impact Simulation: Bihar +5% Improvement
 
 **🎯 Intention**
+
 To simulate realistic policy action and observe its national effect.
 
 **📊 What this visual shows**
+
 
 * Current national average
 * After a simulated +5% improvement in Bihar
 
 **🧠 What it is saying**
+
 A modest improvement in a single high-impact state produces a measurable national shift.
 
 **🔑 Why this matters**
+
 Transforms analysis into actionable policy foresight and validates prioritisation decisions.
 
 ![Policy Impact Simulation Bihar +5%](screenshots/policy_simulation_bihar.png)
