@@ -67,7 +67,7 @@ Several states fall **significantly below the national average**, confirming tha
 
 Introduces **national context**, helping distinguish truly critical states from marginal underperformers.
 
-![States with Lowest Aadhaar Enrolment vs National Average](screenshots/states_lowest_vs_national_avg.png)
+![States with Lowest Aadhaar Enrolment vs National Average](screenshots/states_vs_national_avg.png)
 
 
 
@@ -89,7 +89,7 @@ A **small number of districts** drive the state’s overall low performance.
 
 Suggests that **district-level interventions** would be more effective than broad state-wide actions.
 
-![Meghalaya Districts with Lowest Aadhaar Enrolment](screenshots/meghalaya_districts_lowest_0_5.png)
+![Meghalaya Districts with Lowest Aadhaar Enrolment](screenshots/meghalaya_districts.png)
 
 
 ### **4️⃣ National Contrast: Best vs Worst States in Early Childhood Aadhaar Enrolment**
@@ -162,7 +162,7 @@ States ranked using a custom **Intervention Priority Index (IPI)** based on:
 
 Shifts the narrative from *“who is worst”* to *“where action matters most”*.
 
-![States Requiring Highest Priority Intervention](screenshots/intervention_priority_states.png)
+![States Requiring Highest Priority Intervention](screenshots/intervention_priority.png)
 
 
 ### **7️⃣ Severity vs Scale Quadrant for Early Childhood Aadhaar Enrolment**
@@ -214,7 +214,7 @@ Percentage contribution of each state to the national 0–5 enrolment gap.
 
 Shows that **addressing just two states can reduce nearly 90% of the national gap**.
 
-![State-wise Contribution to National Enrolment Gap](screenshots/state_contribution_national_gap.png)
+![State-wise Contribution to National Enrolment Gap](screenshots/contribution_to_gap.png)
 
 
 ### **9️⃣ Policy Impact Simulation: Bihar \+5% Improvement**
@@ -239,7 +239,7 @@ A modest improvement in a single high-impact state produces a **measurable natio
 
 Transforms analysis into **actionable policy foresight**, validating prioritisation decisions.
 
-![Policy Impact Simulation Bihar +5%](screenshots/policy_impact_simulation_bihar.png)
+![Policy Impact Simulation Bihar +5%](screenshots/policy_simulation_bihar.png)
 
 
 ## **Overall Conclusion**
