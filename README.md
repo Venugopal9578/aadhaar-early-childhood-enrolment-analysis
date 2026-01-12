@@ -39,7 +39,8 @@ Several states show **very low early-childhood enrollment**, indicating potentia
 
 This acts as the **initial problem discovery step**, highlighting where enrollment challenges are concentrated.
 
-![][image1]
+![States with Lowest Aadhaar Enrolment](screenshots/states_lowest_0_5.png)
+
 
 ### **2️⃣ States with Lowest Aadhaar Enrolment (Age 0–5) vs National Average**
 
